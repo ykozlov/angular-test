@@ -1,3 +1,3 @@
-/**
- * Created by yegor on 5.3.17.
- */
+describe('1st tests', () => {
+  it('true is true', () => expect(true).toBe(true));
+});
